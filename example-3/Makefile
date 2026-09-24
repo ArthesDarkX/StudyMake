@@ -2,7 +2,7 @@
 
 SOURCE = Kazino-Royal.cpp
 RELEASE_FLAGS = -O2 -Wall -DNDEBUG
-DEBUGG_FLAGS = -g -O0 -Wall
+DEBUG_FLAGS = -g -O0 -Wall
 RELEASE_EXEC = Kazino-Royal
 DEBUG_EXEC = Kazino-Royal-dbg
 
