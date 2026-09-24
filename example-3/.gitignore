@@ -1,3 +1,2 @@
-Kazino-Royal
-Kazino-Royal-dbg
-*.o
+!Kazino-Royal.cpp
+Kazino-Royal*
